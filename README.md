@@ -1,0 +1,9 @@
+COMPANY'S NAME:OASIS INFOBYTES
+
+NAME:M.Dharani
+
+DOMAIN:WEB DEVELOPMENT AND DESIGNING 
+
+DURATION:4 WEEKS
+
+This is my simple landing page website.
